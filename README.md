@@ -7,9 +7,9 @@
 ✨ I am a student at SRMIST Kattankulathur, Chennai 
 
 
+
 ```javascript
 const Zehra = {
-  pronouns: "she" | "her",
   language: [ 'Javascript', 'HTML', 'CSS', 'Python', 'Cpp', 'C','Java' ,'Typescript'],
   terminalCommands: [ 'git'],
   architecture: ["simple page application"],
