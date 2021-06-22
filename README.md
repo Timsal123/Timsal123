@@ -14,7 +14,7 @@ const Zehra = {
   terminalCommands: [ 'git'],
   architecture: ["simple page application"],
   technologies: {
-    backend: ['PHP','MySQL','Flask']
+    backend: ['PHP','MySQL','Flask'],
     frontend: ['Angular', 'Sass', 'Bootstrap', 'Materialize']
 }
 ```
