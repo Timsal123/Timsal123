@@ -15,7 +15,7 @@ const Zehra = {
   architecture: ["simple page application"],
   technologies: {
     backend: ['PHP','MySQL','Flask'],
-    frontend: ['Angular', 'Sass', 'Bootstrap', 'Materialize']
+    frontend: ['React','Angular', 'Sass', 'Bootstrap', 'Materialize']
 }
 ```
 
