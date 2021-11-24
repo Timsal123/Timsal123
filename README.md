@@ -10,7 +10,7 @@
 
 ```javascript
 const Zehra = {
-  language: [ 'Javas','HTML', 'CSS', 'Python', 'Cpp','Typescript'],
+  language: [ 'Java','HTML', 'CSS', 'Python', 'Cpp','Typescript'],
   terminalCommands: [ 'git'],
   architecture: ["simple page application"],
   technologies: {
