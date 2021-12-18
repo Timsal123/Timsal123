@@ -11,8 +11,7 @@
 ```javascript
 const Zehra = {
   language: [ 'Java','HTML', 'CSS', 'Python', 'Cpp','Typescript'],
-  terminalCommands: [ 'git'],
-  architecture: ["simple page application"],
+  terminalCommands: [ 'git','heroku'],
   technologies: {
     backend: ['PHP','MySQL','Flask'],
     frontend: ['Angular', 'Sass', 'Bootstrap', 'Materialize']
