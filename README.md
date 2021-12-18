@@ -10,11 +10,11 @@
 
 ```javascript
 const Zehra = {
-  language: [ 'Java','HTML', 'CSS', 'Python', 'Cpp','Typescript'],
+  language: [ 'Java','HTML', 'CSS', 'Python', 'Cpp','Typescript','Node JS'],
   terminalCommands: [ 'git','heroku'],
   technologies: {
-    backend: ['PHP','MySQL','Flask'],
-    frontend: ['Angular', 'Sass', 'Bootstrap', 'Materialize']
+    backend: ['PHP','MySQL','Flask','PostGres'],
+    frontend: ['Angular','TailwindCSS;, 'Sass', 'Bootstrap', 'Materialize','Ionic','primeNg']
 }
 ```
 
