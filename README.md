@@ -4,7 +4,7 @@
 </p>
 
 ---
-                    ✨ I am an IT professional currently working as a Full Stack Developer in Baja Finserv, Bengaluru 
+                    ✨ I am an IT professional currently working as a Full Stack Developer in Bajaj Finserv, Bengaluru 
 
 
 
