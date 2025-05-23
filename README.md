@@ -4,17 +4,19 @@
 </p>
 
 ---
-✨ I am a student at SRMIST Kattankulathur, Chennai 
+                    ✨ I am an IT professional currently working as a Full Stack Developer in Baja Finserv, Bengaluru 
 
 
 
 ```javascript
 const Zehra = {
-  language: [ 'Java','HTML', 'CSS', 'Python', 'Cpp','Typescript','Javascript'],
+  language: [ 'Python','C#','HTML', 'CSS','Typescript'],
   terminalCommands: [ 'git','heroku'],
   technologies: {
-    backend: ['PHP','MySQL','Flask'],
-    frontend: ['Angular','TailwindCSS;, 'Sass', 'Bootstrap', 'Materialize','Ionic','primeNg']
+    backend: ['ASP.NET Core','SQL','FastApi','DataBricks'],
+    frontend: ['Angular', 'Sass', 'Bootstrap', 'Materialize','Ionic','primeNg'],
+    cloud: ['Azure','GCP'],
+    AI tools:['GenAI','Agentic','Vertex AI','Azure AI Fondry','GPT']
 }
 ```
 
